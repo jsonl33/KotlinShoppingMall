@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "775134262519",
+    "project_id": "shoppingmall-c2869",
+    "storage_bucket": "shoppingmall-c2869.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775134262519:android:a81cbbc1ea708dafb80ff2",
+        "android_client_info": {
+          "package_name": "com.example.shoppingmall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHs42esWBUiDeEmyXGujoylW8MWEu-UzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
